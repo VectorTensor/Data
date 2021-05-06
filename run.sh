@@ -1,6 +1,7 @@
 #!/bin/bash
-
+#Enter data for X
 data1=(1000 2000)
+#Enter data for Y Elements are separated by space
 data2=(10 20)
 a=${#data1[@]}
 var1=0
